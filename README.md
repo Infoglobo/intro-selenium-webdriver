@@ -1,5 +1,5 @@
 # INTRO-SELENIUM-WEBDRIVER
-Leia nosso artigo no [Medium](https://medium.com/editora-globo) e conheça um pouco sobre o Selenium WebDriver. 
+Leia nosso artigo no [Medium](https://medium.com/editora-globo/introdu%C3%A7%C3%A3o-ao-selenium-webdriver-8ac2f9a8d9d0) e conheça um pouco sobre o Selenium WebDriver. 
 Esse repositório foi construído para armazenar os códigos presentes no artigo.
 
 ## Tecnologias utilizadas
